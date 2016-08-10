@@ -32,9 +32,9 @@ class MuslCross < Formula
     sha256 "617decc6ea09889fb08ede330917a00b16809b8db88c29c31bfbb49cbf88ecc3"
   end
 
-  resource "gmp-6.1.0.tar.bz2" do
-    url "https://ftpmirror.gnu.org/gmp/gmp-6.1.0.tar.bz2"
-    sha256 "498449a994efeba527885c10405993427995d3f86b8768d8cdf8d9dd7c6b73e8"
+  resource "gmp-6.1.1.tar.bz2" do
+    url "https://ftpmirror.gnu.org/gmp/gmp-6.1.1.tar.bz2"
+    sha256 "a8109865f2893f1373b0a8ed5ff7429de8db696fc451b1036bd7bdf95bbeffd6"
   end
 
   resource "musl-1.1.15.tar.gz" do
